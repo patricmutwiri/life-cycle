@@ -6,7 +6,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.widget.Button;
 import android.app.Activity;
 import android.util.Log;
-import android.view.View;i
+import android.view.View;
 import com.example.test.test.R;
 
 public class MainActivity extends AppCompatActivity {
