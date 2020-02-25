@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         btnExit = (Button) findViewById(R.id.button);
         Log.d(msg, "The onCreate() event");
-//set GUI listeners, watchers,...
+        //set GUI listeners, watchers,...
         btnExit.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
